@@ -1,0 +1,19 @@
+.Section 1{
+	font-style: Bold;
+	background-color: linen;
+
+}
+
+.Section2{
+	font-family: Times;
+	font-style: Bold;
+	background-color: linen
+
+}
+
+.AboutMe{
+     border-style: groove;
+     background-color:green;
+     font-family: "Times New Roman", Times, serif;
+     font-style: oblique;
+}
